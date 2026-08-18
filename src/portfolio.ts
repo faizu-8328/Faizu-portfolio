@@ -28,6 +28,24 @@ export const categories = [
   'Print Design',
 ];
 
+export const services = [
+  {
+    title: "Logo Design",
+    description: "Premium logo design and brand identity solutions."
+  },
+  {
+    title: "Social Media Design",
+    description: "Creative social media posts and advertising designs."
+  },
+  {
+    title: "UI/UX Design",
+    description: "Modern website and mobile app interface designs."
+  },
+  {
+    title: "Video Editing",
+    description: "Professional video editing and motion graphics."
+  }
+];
 export const projects: Project[] = [
   {
     id: 1,
