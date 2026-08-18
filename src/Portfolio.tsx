@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react';
 import { motion, useInView, AnimatePresence } from 'framer-motion';
-import { projects, categories } from '../data/portfolio';
+import { projects, categories } from './portfolio';
 
 // SVG-based mockup designs for additional portfolio items
 function MockupDesign({ type, brand, color }: { type: string; brand: string; color: string }) {
