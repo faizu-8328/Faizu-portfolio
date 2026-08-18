@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { processSteps } from '../data/portfolio';
+import { processSteps } from './portfolio';
 
 export default function Process() {
   const ref = useRef(null);
