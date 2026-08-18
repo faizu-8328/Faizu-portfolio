@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react';
 import { motion, useInView, AnimatePresence } from 'framer-motion';
-import { ... } from './portfolio';
+import { caseStudies } from './portfolio';
 
 export default function CaseStudies() {
   const [activeStudy, setActiveStudy] = useState(0);
