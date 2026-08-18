@@ -1,15 +1,14 @@
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Services from './components/Services';
-import Portfolio from './components/Portfolio';
-import CaseStudies from './components/CaseStudies';
-import Process from './components/Process';
-import Testimonials from './components/Testimonials';
-import Skills from './components/Skills';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import About from "./About";
+import Services from "./Services";
+import Portfolio from "./Portfolio";
+import CaseStudies from "./CaseStudies";
+import Process from "./Process";
+import Testimonials from "./Testimonials";
+import Skills from "./Skills";
+import Contact from "./Contact";
+import Footer from "./Footer";
 export default function App() {
   return (
     <div className="min-h-screen bg-[#0F0F0F] text-white overflow-x-hidden">
