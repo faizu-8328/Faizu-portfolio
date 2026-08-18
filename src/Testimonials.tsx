@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { testimonials } from '../data/portfolio';
+import { testimonials } from './portfolio';
 
 export default function Testimonials() {
   const ref = useRef(null);
