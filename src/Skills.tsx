@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { skills } from '../data/portfolio';
+import { skills } from './portfolio';
 
 export default function Skills() {
   const ref = useRef(null);
