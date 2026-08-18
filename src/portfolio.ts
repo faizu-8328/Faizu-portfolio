@@ -192,48 +192,6 @@ export const caseStudies: CaseStudy[] = [
   },
 ];
 
-export const services = [
-  {
-    icon: '📱',
-    title: 'Social Media Post Design',
-    description: 'Eye-catching posts for Instagram, Facebook, LinkedIn, and Twitter that drive engagement and build brand awareness.',
-  },
-  {
-    icon: '🎨',
-    title: 'Brand Identity Design',
-    description: 'Complete brand packages including logo, color palette, typography, and brand guidelines for a cohesive visual identity.',
-  },
-  {
-    icon: '📐',
-    title: 'UI/UX Design',
-    description: 'Intuitive mobile app and web interfaces designed with user experience at the forefront, from wireframe to final mockup.',
-  },
-  {
-    icon: '🎯',
-    title: 'Advertisement Design',
-    description: 'High-converting ad creatives for digital and print campaigns that grab attention and drive results.',
-  },
-  {
-    icon: '🎬',
-    title: 'YouTube Design',
-    description: 'Thumbnails, banners, end screens, and channel branding that increase click-through rates and subscriber growth.',
-  },
-  {
-    icon: '📋',
-    title: 'Print Design',
-    description: 'Professional flyers, menus, posters, brochures, and business cards designed for maximum visual impact.',
-  },
-  {
-    icon: '✏️',
-    title: 'Logo Design',
-    description: 'Memorable, versatile logos that capture brand essence—from minimal wordmarks to detailed emblems.',
-  },
-  {
-    icon: '📊',
-    title: 'Carousel Design',
-    description: 'Multi-slide carousel posts for Instagram and LinkedIn that tell your brand story and educate your audience.',
-  },
-];
 
 export const skills = [
   { name: 'Graphic Design', level: 95 },
