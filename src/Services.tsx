@@ -1,6 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-import { something } from './portfolio';
+import { services } from './portfolio';
 
 export default function Services() {
   const ref = useRef(null);
